@@ -3,14 +3,17 @@ Laboratorio práctico de git y github
 
 
 ### Command Line Git
+Este comando sirve para ver cual es la version de Git instalado en nuestra computadora
+```
 * git --version
+```  
 * git config --list
 * git config --global user.name "Emmanuel Back Developer"
 * git config --global user.email emmanuel@cocacola.com
 * git init
 * git status
 * git add [nameFile]
-* git add .
+* git add .  
 * git add --all
 * git restore --staged [nameFile]
 * git commit -m "comment"
@@ -39,14 +42,14 @@ Laboratorio práctico de git y github
 
 
 ### Bibliografía
-* [w3schools.com/git](https://www.w3schools.com/git/)
-* [training.github.com](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
+* [Documentation Github](https://docs.github.com/es)
 * [Book Pro Git](https://git-scm.com/book/es/v2)
 * [Documentation Git](https://git-scm.com/docs)
+* [w3schools.com/git](https://www.w3schools.com/git/)
+* [training.github.com](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
 * [Guide all Git](https://git-scm.com/docs/git#_guides)
 * [Learn git with bitbucket cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Ebook: Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/)
-* []()
 * []()
 * []()
 * []()
